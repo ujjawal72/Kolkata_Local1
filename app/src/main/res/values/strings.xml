@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">LogIn_Activity</string>
+    <string name="navigation">Welcome to Kolkata Local</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip_login"><![CDATA[Skip Login-->]]></string>
+
+    <string name="open_drawer">open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="title_activity_map__location">Map</string>
+
+
+    <string name="Varanasi_Detail">Varanasi is a city in India one must visit once in their lifetime. Considered as the holiest of Hindu cities, it is as old as civilization and the very town breathes divine bliss. The important seat of learning in India, in fact one of the earliest of the country, the town is located in the North Indian State of Uttar Pradesh. Known as the city where life comes to a full circle, as it is witness to Indian rituals of birth to death. The River Ganges, believed to the holy is worshipped as a Mother Goddess in India flows through Varanasi granting it immortality and the chance to bask in the divine blessings. For a real insight into the mystical mysteries of India, Varanasi tours open up the golden window,
+
+Situated along the holy River Ganges, Varanasi enjoys a picturesque setting. The name of the town was formerly Kashi, then Benaras and the current name Varanasi is said to be a compound of the names of two streams, the Varuna and the Assi, which still flow in the north and south of the city respectively. Varanasi is probably one of the most ancient living cities in India. From time immemorial it has been a great religious center for Hindus and one of their most sacred places of pilgrimage, being visited by millions of people every year.
+
+The places worth visiting in the city of Varanasi are several. The ghats (stepped banks) that dot the riverside, and the hundreds of temples that form part of the old city of Varanasi. Walk through the bylanes of Varanasi and in every nook and corner come across temples, sacred shrines and the reminiscent of the bygone era. The city has a reputation of weaving, creating handlooms, handicrafts, etc. The weaver’s community is interesting to explore as you can witness the beautiful creation in front of your eyes. Or, even better you can purchase some of the finest masterpieces to take back home. A visit to Sarnath is also a must of a visit to Varanasi. 13 km from the city, it is a Buddhist site where Lord Buddha delivered his sermons and till date there are stupas that are marked with his teachings.
+
+The Ganga aarti is the most mesmerizing experience in Varanasi. The daily ritual of worship of the River Goddess is held at dawn and dusk that truly connects you with the divine. The aarti ceremony at dusk is truly spectacular. The taste of the local food, boat ride on the Ganges in the early morning, walking tour of the city make fond memories of a holiday in Varanasi.</string>
+
+
+    <string name="Patna_Detail">Patna, ancient Pataliputra, city, capital of Bihar state, northern India. It lies about 290 miles (470 km) northwest of Kolkata (Calcutta). Patna is one of the oldest cities in India. During the Mughal period it was
+     known as Azimabad.Patna is a riverside city that extends along the south bank of the Ganges (Ganga) River for about 12 miles (19 km). West of the old city lies the section called Bankipur, and farther southwest is a spacious new capital area with wide roads, shady avenues, and new buildings. Prominent among Patna’s modern structures are the Government House, the Assembly Chambers, the Oriental Library, a medical college, and an engineering college. Patna’s historic monuments include the mosque of Ḥusayn Shah of Bengal (1499); the Sikh Temple associated with the 10th Guru, Gobind Singh; and the granary at Bankipur (1786), popularly called the Golghar. The city also has the University of Patna (1917) and the Patna Museum. The city is connected by road to Hajipur, just north of the Ganges, via the Mahatma Gandhi Bridge across the river.
+    The ancient city of Pataliputra was founded in the 5th century BCE by Ajatashatru, king of Magadha (South Bihar). His son Udaya (Udayin) made it the capital of Magadha, which it remained until the 1st century BCE. The second Magadha dynasty, the Maurya, ruled in the 3rd and early 2nd centuries BCE until the city was sacked in 185 by Indo-Greeks. The Shunga dynasty then began, ruling until about 73 BCE. Pataliputra remained a centre of learning and in the 4th century CE became the capital of the Gupta dynasty. It declined and was deserted by the 7th century. The city was refounded as Patna by an Afghan ruler in 1541 and again rose to prosperity under the Mughal Empire. It passed to the British in 1765. Extensive archaeological excavations have been made in the vicinity. </string>
+
+
+    <string name="Madhubani_Detail">"Madhubani, or Mithila, painting is a folk painting of northern India. It is mostly practiced by women in the villages who have passed this art to their daughters through multiple generations. They paint pictures of nature and mythology to depict different events like birth, marriage, and cycles of life. Though this folk art has been practiced for centuries it started to gain national recognition only in the last few decades. Now, art patrons can find Madhubani artists in several cities of northern India, many of whom are experimenting and adapting the traditional styles to modern ethos and medium.
+
+The area of Mithila lies near the border of India and Nepal and carries a rich pastel of cultural legacy in art and literature. Its heritage goes back at least 2,500 years and its celebrated figures include the Buddha and Mahavira. It is also the birthplace of Sita, the central character in Ramayana. Hence, her life stories are frequently depicted in the local art.
+
+The paintings are traditionally based on mythological, folk themes and pastoral symbols. The central themes of most paintings are love, valor, devotion and fertility, though the approach may vary. So it is common to find scenes of courtship and marriages and symbols of fertility and prosperity like fish, parrot, elephant, turtle, sun, moon, bamboo tree, lotus, etc. in prominence. The divine beings are positioned centrally in the frame while their consorts and floral motifs form the background. The human figures are mostly abstract and linear in form.
+
+Even though this art is centuries old, it has preserved its original style and content in its native land of Mithila. Nowadays synthetic colors are used but traditional artists still make their own colors by extracting them from plants. The coloring is of two styles – Kachni (hatching) and Bharni (shading.) Kachni uses delicate fine lines to fill the painting and not much color is used. Bharni (shading) uses solid colors to shade and fill the pictures. It uses black outlines filled with vibrant colors. A variety of inventive patterns are made with hatching and stippling. Even now during birth and marriage ceremonies paintings are made on walls with different symbols like bamboo (lineage,) lotus, and fish. The designs announce the occasion of the celebration and solicit good fortune and divine blessings.</string>
+
+    <string name="Chandigarh_Detail">"Chandigarh, the dream city of India's first Prime Minister, Sh. Jawahar Lal Nehru, was planned by the famous French architect Le Corbusier. Picturesquely located at the foothills of Shivaliks, it is known as one of the best experiments in urban planning and modern architecture in the twentieth century in India.
+Chandigarh derives its name from the temple of "Chandi Mandir" located in the vicinity of the site selected for the city. The deity 'Chandi', the goddess of power and a fort of 'garh' laying beyond the temple gave the city its name "Chandigarh-The City Beautiful".
+
+The city has a pre-historic past. The gently sloping plains on which modern Chandigarh exists, was in the ancient past, a wide lake ringed by a marsh. The fossil remains found at the site indicate a large variety of aquatic and amphibian life, which was supported by that environment. About 8000 years ago the area was also known to be a home to the Harappans.
+
+Since the medieval through modern era, the area was part of the large and prosperous Punjab Province which was divided into East and West Punjab during partition of the country in 1947. The city was conceived not only to serve as the capital of East Punjab, but also to resettle thousands of refugees who had been uprooted from West Punjab.
+
+In March, 1948, the Government of Punjab, in consultation with the Government of India, approved the area of the foothills of the Shivaliks as the site for the new capital. The location of the city site was a part of the erstwhile Ambala district as per the 1892-93 gazetteer of District Ambala. The foundation stone of the city was laid in 1952. Subsequently, at the time of reorganization of the state on 01.11.1966 into Punjab, Haryana and Himachal Pardesh, the city assumed the unique distinction of being the capital city of both, Punjab and Haryana while it itself was declared as a Union Territory and under the direct control of the Central Government.</string>
+
+    <string name="Darjeeling_Detail">Darjeeling - Darjeeling is a hill station in the Eastern State of West Bengal. Also called the queen of hill-stations, at an altitude of 2134 m. or 7000 ft, it is a famous hill resort offering a breath taking sight of the numerous peaks of the majestic Himalayas.
+
+The clouds seem to whisper to one another here and from horizon to horizon stretches the Kanchanjunga, covered with snow from the head to foot all round the year. The views of Kanchanjunga and Mount Everest are particularly inspiring and are alone a good reason to visit Darjeeling. </string>
+
+    <string name="Delhi_Detail">"Delhi is fondly known as the City of Cities .The bustling capital of India successfully brings together in its fold the old and new presenting a unique melting-pot that fascinates all. Experience the coming together of the ancient and the modern, co-existing in harmony with each other, enhancing the appeal of Delhi for travellers from far ends of the globe. The gateway to the country, Delhi enjoys a strategic location. It is well-connected internationally as well as domestically. While Delhi itself presents lots to see, do and experience, it also helps access Rajasthan, the central India, North India and almost every city of the country. So, it comes without surprise, that it is the most-popular tourist circuit in India, the Golden Triangle with Delhi as its starting point cover Agra and Jaipur.
+
+    As fascinating as Delhi, is the history of the land. Over centuries and eras, the city has been the centre of the many ruling dynasties who chose it as their seat of power. Unsurprisingly, what constitutes Delhi today, is a conglomerate of seven cities. Lalkot was built in the mid-11th century with very few ruins left now. Siri established by Allauddin Khilji has some remains which find its place among the UNESCO World Heritage Sites. Tughlakabad and Ferozabad built by the Tughlaks which have now become interesting ruins. Then came the city of the Lodis which too has fascinating architecture left to marvel at. Lastly, among the last of the glorious bygone days came with Shahjahanabad, magnificent capital of the Mughals under Shah Jahan. New Delhi, also known as Lutyen Delhi reflects the legacy the
+    British left behind with many interesting monuments. Every nook and corner you visit, you will inadvertently come across the glorious past.
+
+   Besides the touch of the old, the modern is not far behind as the city matches pace with the world. Fine-dining restaurants,
+   business centres, shopping malls, museums, art galleries, internationally- acclaimed hotels, etc. that put the city on the world map. Some important places worth visiting in Delhi include the Humayun's Tomb, Red Fort, the Jama Masjid, Qutub Minar Archaeological Complex, the Jantar Mantar, the Bahai temple, Raj Ghat, India Gate, among many others.
+
+   Besides the amazing sights, Delhi is also a great shopping destination. Be it the road side stalls of Connaught Place or the swanky shopping malls in the suburbs, shopping is a major attraction for visitors to Delhi. Same goes for the food. Be it the street food of Old Delhi bylanes or the luxury restaurants, every dish is a treat for your taste buds</string>
+
+    <string name="Goa_Detail">Goa is a small state situated on the western coast of India. It was liberated from the rule of Portuguese in 1961 and is considered as the 25th State in the Union of States of India. In 30 May 1987, it became a separate state.
+
+Located on the Western Ghats of Konkan, Goa is known as the smallest and the fourth smallest populated state of India. Goa is bounded by Maharashtra to its north, eastern and southern boundaries were formed by Karnataka, while the western coast is formed by Arabian Sea. It is also considered as the richest Indian state.
+
+The largest city of Goa is Vasco da Gama while Panaji is the capital. Margao is known as the historic city of Goa that reflects the Portuguese culture. It is because the Portuguese landed here as merchants first and conquered the land in the early 16th century.
+
+International and domestic tourists visit this tiny state every year, in a large number. Tourists are attracted to its golden beaches, architecture and places of worship. It is a biodiversity hotspot and is rich in flora and fauna.
+
+Goa is known for sharing harmonious relationship among its various religious communities, living peacefully for generations. Goa is regarded as one of the best states of India in terms of investment environment and infrastructure.</string>
+
+
+    <string name="Chennai_Detaill">Chennai formerly Madras, is the charming capital city of Tamil Nadu, the Southern Indian state. Set on the Coromandel Coast, along the Bay of Bengal, Chennai has much to offer. From scenic beaches, historical attractions, vibrant culture, delightful food, shopping and other delights, the Gateway of South is among the must-visit places in India. The fourth-largest metropolis of the country, the city port is ranked among the busiest in India. The best thing about Chennai tours is that it brings together, the old and the new creating a unique mix which is heart-warming.
+
+The British colonial chapter has traces all over the city, but beyond that the roots of the history of city go deep. The Tamil Sangam era, 2000 years back was a glorious period. From those days the fine masterpieces include the Kapeleeshwar temple. The marvel of architecture is one of the iconic landmarks of the city. Matching pace with the modern day, Chennai is also dotted with eclectic mix of classical concerts to trendy nightclubs, Chettinad to multi-cuisine restaurants, museums to Internet cafes, and so much more. Shopping for genuine silk sarees, and many handicrafts are also some of the best things to do in Chennai.
+
+For a beach holiday, a visit of the ancient temples, tracing the roots of history, a visit to other places in South India, tours to Chennai provide a host of options. The city has a charm that is simply matchless. Places to visit in Chennai include the Marina Beach, the 13 km stretch of blissful sun, sea and sand. Listed among the most popular beaches of India this shoreline is a pictorial setting where you can enjoy some spectacular sunsets and sunrises. Also included among the must-visit sights in Chennai is the San Thome Cathederal, built on the site of a 16th century Portuguese basilica. It is said to be the tomb of the apostle Thomas, who is reputed to have brought Christianity to India in the 1st century AD. Also interesting is The Fort St George and the Fort Museum which has a collection of objects from the tenure of the East India Company in Chennai, including letters from Robert Clive. Other tourist attractions include the Chennai Crocodile Bank, Pulicat Lake (a large saltwater lagoon), a bird sanctuary, and a zoological park.
+
+In addition, from Chennai there are a number of interesting places to get away. Mahabalipuram (57km-1.5 hours), Pondicherry (154 km approx.- 3 hours). are amazing getaways which you can include with Chennai tours.</string>
+
+
+    <string-array name="array_technology">
+
+        <!-- <item>HELPLINES</item>
+
+        <item> RPF 182</item>
+
+        <item>Helpline 139 </item>
+-->
+        <item>Rules</item>
+
+        <item>Every person desirous of travelling on a Railway shall, upon payment of his fare be suppliedwith a ticket specifying the class of carriage for which, and the place from and the place to which, the fare has been paid.</item>
+
+        <item>A person to whom a ticket has been issued and for whom there is not room available in the trainfor which the ticket was issued shall, on returning the ticket within three hours after the departure of the train, entitled to have his fare refunded.</item>
+
+        <item>A person for whom there is not room available in the class of carriage for which he has purchased a ticket and who is obliged to travel in a carriage of a lowerclass shall be entitled on delivering up his ticket to a refund of the difference between the fare paid by him and the fare payable for the class of carriagein which he travelled.</item>
+
+        <item>No person, shall without the permission of Railway Servant, enter (or remain in) any carriage on a Railway for the purpose of travellingtherein as a passenger unless he has with him a proper, pass or ticket.</item>
+
+        <item>If a passenger, having entered a compartment which is reserved by the Railway Administration for the use of another passenger, or which already contains themaximum number of passengers exhibited therein or thereon refuses to leave it when required to do so by any Railway servant, he shall be punished with fineaccording to existing rules of the Railway.</item>
+
+        <item>If a passenger resists the lawful entry of another passenger into a compartment not reserved by the Railway administration for the use of the passenger resistingor not already containing the maximum number of passenger exhibited therein or thereon, he shall be punished with the fine according to existing rules of the Railway.</item>
+
+        <item>If a person without consent of his fellow passengers, if any in the same compartment, smokes in any compartment except a compartment specially provided for the purpose,he shall be punished with fine according to the existing rules of the Railways.</item>
+
+        <item>If any person persists in smoking after being warned by any Railway servant to desist. he may in addition to incurring the liability, be removed by any Railway Servantfrom the carriage in which he is travelling.</item>
+
+        <item>If a male person, knowing a carriage, compartment, room or other place to be reserved by a Railway administration for the exclusive use of females, enters the placewithout lawful excuse, or having entered it remains therein after having been desired by any Railway Servant to leave it, he shall be punished with fine according.to existing rules of the Railways, in addition to the forfeiture of any fare which he may have paid and of any pass or ticket which he may haveobtained or purchased, and may be removed from the Railway by any Railway servant.</item>
+
+        <item>If a person suffering from an infectious or contagious disorder enters or travels upon a Railway, he and any person having charge of himupon the Railway when he so entered or travelled thereon, shalt be punished with fine according to existing rules of the Railways, in addition to theforfeiture of any fare which either of them may have paid, and of any pass or ticket which either of them may have obtained or purchased, and may be removedfrom the Railway by any Railway servant</item>
+
+        <item>If a person in any Railway carriage or upon any part of a Railway is in a state of intoxication, or commits any nuisance or act of indecency,or uses obscene or abusive language, or wilfully and without lawful excuse interferes with the comfort of any passenger or extinguishes any lamp,heshall be punished with fine which may extend to fifty rupees, in addition to the forfeiture of any fare which he may have paid and of any pass orticket which he may have obtained or purchased and may be removed from the Railway by any Railway servant</item>
+
+        <item>If a person unlawfully enters upon a railway, he shall be punished with fine according to existing rules of the Railways</item>
+
+    </string-array>
+
+    <!-- <string-array name="array_Tour">
+
+        <item>Delhi is fondly known as the ‘City of Cities’. The bustling capital of India successfully brings together in its fold- the old and new presenting a unique melting-pot that fascinates all. Experience the coming together of the ancient and the modern, co-existing in harmony with each other, enhancing the appeal of Delhi for travellers from far ends of the globe. The gateway to the country, Delhi enjoys a strategic location. It is well-connected internationally as well as domestically. While Delhi itself presents lots to see, do and experience, it also helps access Rajasthan, the central India, North India and almost every city of the country. So, it comes without surprise, that it is the most-popular tourist circuit in India, the Golden Triangle with Delhi as its starting point cover Agra and Jaipur.
+
+As fascinating as Delhi, is the history of the land. Over centuries and eras, the city has been the centre of the many ruling dynasties who chose it as their seat of power. Unsurprisingly, what constitutes Delhi today, is a conglomerate of seven cities. Lalkot was built in the mid-11th century with very few ruins left now. Siri established by Allauddin Khilji has some remains which find its place among the UNESCO World Heritage Sites. Tughlakabad and Ferozabad built by the Tughlaks which have now become interesting ruins. Then came the city of the Lodis which too has fascinating architecture left to marvel at. Lastly, among the last of the glorious bygone days came with Shahjahanabad, magnificent capital of the Mughals under Shah Jahan. New Delhi, also known as Lutyen’s Delhi reflects the legacy the British left behind with many interesting monuments. Every nook and corner you visit, you will inadvertently come across the glorious past.
+
+Besides the touch of the old, the modern is not far behind as the city matches pace with the world. Fine-dining restaurants, business centres, shopping malls, museums, art galleries, internationally- acclaimed hotels, etc. that put the city on the world map. Some important places worth visiting in Delhi include the Humayun's Tomb, Red Fort, the Jama Masjid, Qutub Minar Archaeological Complex, the Jantar Mantar, the Bahai temple, Raj Ghat, India Gate, among many others.
+
+Besides the amazing sights, Delhi is also a great shopping destination. Be it the road side stalls of Connaught Place or the swanky shopping malls in the suburbs, shopping is a major attraction for visitors to Delhi. Same goes for the food. Be it the street food of Old Delhi bylanes or the luxury restaurants, every dish is a treat for your taste buds.</item>
+    </string-array>-->
+
+
+</resources>

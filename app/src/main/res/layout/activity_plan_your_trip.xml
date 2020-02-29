@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#18F5C4"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".Activity.PlanYourTrip">
+
+    <ImageView
+        android:id="@+id/imgShow"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:padding="2dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ic_launcher" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="4dp"
+        android:layout_toEndOf="@+id/imgShow"
+        android:background="#000" />
+
+    <TextView
+        android:id="@+id/txtNameShow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/imgShow"
+        android:background="#3D8EAA"
+        android:padding="5dp"
+        android:text="Hello world"
+        android:textColor="#011D0C"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <!--<TextView
+        android:id="@+id/txtFamousPlaces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/imgShow"
+        android:layout_below="@+id/txtNameShow"
+        android:text="Check all famous Places of "
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:textColor="#050F3F"
+        android:textSize="20sp"/> -->
+
+    <Button
+        android:id="@+id/btnBookTrain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtNameShow"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toEndOf="@+id/imgShow"
+        android:background="#84B5CE"
+        android:padding="7dp"
+        android:text="Book Your Train"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnBookHotel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnBookTrain"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toEndOf="@+id/imgShow"
+        android:background="#A0CDE2"
+        android:padding="7dp"
+        android:text="Book Hotel"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+
+    <View
+        android:id="@+id/horizontalLine"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/imgShow"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="3dp"
+        android:background="#000" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/horizontalLine"
+        android:layout_margin="3dp"
+        android:background="#2DCEA9">
+
+        <TextView
+            android:id="@+id/txtTripDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="Hello World"
+            android:textColor="#610404"
+            android:textSize="17sp" />
+    </ScrollView>
+
+
+</RelativeLayout>

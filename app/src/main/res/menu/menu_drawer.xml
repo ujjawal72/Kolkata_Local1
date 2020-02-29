@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group  android:checkableBehavior="single">
+    <item
+        android:id="@+id/item_Home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item
+        android:id="@+id/item_Location"
+        android:title="Location"
+        android:icon="@drawable/ic_add_location_black_24dp"/>
+
+    <item
+        android:id="@+id/item_Rail_Tour"
+        android:title="Rail Tour"
+        android:icon="@drawable/ic_directions_railway_black_24dp"/>
+
+    <item
+        android:id="@+id/item_Helpline"
+        android:title="Helpline"
+        android:icon="@drawable/ic_call_black_24dp"/>
+
+    <item
+        android:id="@+id/item_Rules"
+        android:title="Rules"
+        android:icon="@drawable/ic_help_outline_black_24dp"/>
+
+    <item
+        android:id="@+id/item_Pnr"
+        android:title="PNR Check"
+        android:icon="@drawable/ic_chevron_right_black_24dp"/>
+
+    <item
+        android:id="@+id/item_Logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_input_black_24dp"/>
+
+</group>
+
+</menu>

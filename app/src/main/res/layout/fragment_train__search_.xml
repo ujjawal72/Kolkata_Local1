@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragments.Train_Search_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#B1A0A0">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgTrainSearch"
+            android:layout_width="138dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/train_pic"
+            app:civ_border_width="2dp"
+            tools:ignore="InvalidId" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <AutoCompleteTextView
+                android:id="@+id/sourceAutoCompleteTextView"
+                android:layout_width="300dp"
+                android:layout_height="51dp"
+                android:completionThreshold="1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/ic_location_on_blue_24dp"
+                android:hint=" Source">
+
+            </AutoCompleteTextView>
+
+            <Button
+                android:id="@+id/swapButton"
+                android:layout_width="54dp"
+                android:layout_height="31dp"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/sourceAutoCompleteTextView"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_swap_vert_black_24dp"
+                android:text=""
+
+                />
+
+            <AutoCompleteTextView
+                android:id="@+id/destinationAutoCompleteTextView"
+                android:layout_width="300dp"
+                android:layout_height="51dp"
+                android:layout_below="@id/swapButton"
+                android:layout_centerInParent="true"
+                android:completionThreshold="1"
+                android:drawableLeft="@drawable/ic_location_on_blue_24dp"
+                android:hint=" Destinattion">
+
+            </AutoCompleteTextView>
+
+            <Button
+                android:id="@+id/searchTrainButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/destinationAutoCompleteTextView"
+                android:layout_centerInParent="true"
+                android:background="@drawable/shape_button"
+                android:layout_marginTop="4dp"
+                android:text="SEARCH"
+                android:textColor="#8525A5"
+                android:textSize="15dp" />
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+</FrameLayout>

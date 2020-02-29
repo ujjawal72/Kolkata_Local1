@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    app:cardCornerRadius="6dp"
+    android:background="#fff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:background="@drawable/background_color" >
+
+        <TextView
+            android:id="@+id/txtAboutNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Railway Protection Force:"
+            android:textSize="20sp"
+            android:layout_weight="1" />
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#fff"/>
+        <TextView
+            android:id="@+id/txtCall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="182"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:drawableEnd="@drawable/ic_call_black_34dp" />
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
